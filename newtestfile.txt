@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-st here
-=======
-wtever
->>>>>>> 9c52ae6dcd9a5b25df300e92fefbdd55495156cc
